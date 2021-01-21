@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Daniel Albuquerque
 
-<!--
-**DCA-28/DCA-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Here are some ideas to get you started:
+## I'm a programmer student focused on making things easier with the power of computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Algorithms and Data Structures
+- 💻 I'm currently studying Computer Science at Rio de Janeiro Federal University (UFRJ)
+- 🔭 I'm looking for a project where I can contribute with my programming knowledge
+- :books: I would like to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> and <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+- ⚡ Fun fact: I love playing videogames and surfing
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HollowLukeDias&repo=HollowLukedias&countColorcountColor&countColor=%237B1E7B"/>
+
+### Tech & Tools Preference
+
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+
+### How to reach me:
+
+-📫: danielalbuquerque@dcc.ufrj.br
+
