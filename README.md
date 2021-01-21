@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science student
-## focused on making things easier with the power of computing
+## I'm a Computer Science student, focused on making things easier with the power of computing
 
 - 🌱 I’m currently learning Algorithms and Data Structures
 - 💻 I'm currently studying Computer Science at Rio de Janeiro Federal University (UFRJ)
