@@ -10,8 +10,6 @@
 - :books: I would like to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">  and <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 - ⚡ Fun fact: I love playing videogames and surfing
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HollowLukeDias&repo=HollowLukedias&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Tech & Tools Preference
 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
