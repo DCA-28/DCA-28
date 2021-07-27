@@ -8,6 +8,7 @@
 - 💻 I'm currently studying Computer Science at Rio de Janeiro Federal University (UFRJ)
 - 🔭 I'm looking for a project where I can contribute with my programming knowledge
 - :books: I would like to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">  and <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+- 💻 See a data analysis project I did: https://danielcorcinodealbuquerque.medium.com/bases-da-desigualdade-no-acesso-e-desenvolvimento-da-ci%C3%AAncia-278196731edc
 - ⚡ Fun fact: I love playing videogames and surfing
 
 ### Tech & Tools Preference
