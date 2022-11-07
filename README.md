@@ -1,9 +1,9 @@
-### Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Daniel Albuquerque
+## Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />, I'm Daniel Albuquerque
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## A Computer Science student and Software Developer
-## Focused on making things easier with the power of computing :)
+# A Computer Science student and Software Developer
+# Focused on making things easier with the power of computing :)
 
 - 🌱 Software Development Intern at Bocom BBM
 - 💻 I'm currently studying Computer Science at Rio de Janeiro Federal University (UFRJ)
