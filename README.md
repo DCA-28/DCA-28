@@ -2,13 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science student, focused on making things easier with the power of computing
+## I'm a Computer Science student and Software Developer, focused on making things easier with the power of computing
 
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🌱 Software Development Intern at Bocom BBM
 - 💻 I'm currently studying Computer Science at Rio de Janeiro Federal University (UFRJ)
 - 🔭 I'm looking for a project where I can contribute with my programming knowledge
 - :books: I would like to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">  and <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-- 🔭 Trainee at UFRJ Analytica - Development Team
 - 💻 See a data analysis project I did: https://danielcorcinodealbuquerque.medium.com/
 - ⚡ Fun fact: I love playing videogames and surfing
 
