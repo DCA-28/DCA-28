@@ -7,7 +7,7 @@
 
 - 🌱 Software Engineer at Bocom BBM
 - 💻 Computer Science Bachelor's Degree at Rio de Janeiro Federal University (UFRJ)
-- 🔭 I work with backend development using Java as my main language and Spring Boot as a framework.
+- 🔭 I work with backend development using Java and C# as my main languages, also working with SpringBoot and .Net as frameworks.
 - 💻 See a data analysis project I did: https://danielcorcinodealbuquerque.medium.com/
 - ⚡ Fun fact: I love playing videogames and surfing
 
